@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  qrcode: MyString
+  message: MyText
+  logo: MyString
+  name: MyString
+
+two:
+  qrcode: MyString
+  message: MyText
+  logo: MyString
+  name: MyString
